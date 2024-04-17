@@ -1,6 +1,5 @@
-const nextConfig = {
+export const NextConfig = {
     reactStrictMode: true,
     swcMinify: true,
-  }
+}
   
-export default nextConfig
